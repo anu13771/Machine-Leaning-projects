@@ -1,4 +1,5 @@
 🪨 Mine vs Rock Prediction using Logistic Regression
+
 This project uses machine learning to classify sonar signals as either a rock or a mine. The dataset is analyzed, preprocessed, and used to train a Logistic Regression model, which can then predict the object type based on input features.
 
 📂 Dataset
